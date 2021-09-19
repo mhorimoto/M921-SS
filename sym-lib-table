@@ -1,2 +1,3 @@
 (sym_lib_table
+  (lib (name M921-SS-rescue)(type Legacy)(uri ${KIPRJMOD}/M921-SS-rescue.lib)(options "")(descr ""))
 )
