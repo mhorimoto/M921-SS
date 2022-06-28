@@ -1,3 +1,7 @@
 (sym_lib_table
+<<<<<<< HEAD
   (lib (name "M921-SS-rescue")(type "Legacy")(uri "${KIPRJMOD}/M921-SS-rescue.lib")(options "")(descr ""))
+=======
+  (lib (name M921-SS-rescue)(type Legacy)(uri ${KIPRJMOD}/M921-SS-rescue.lib)(options "")(descr ""))
+>>>>>>> 5def26b802f3d1d03ecd6612800aa433b8c84325
 )
